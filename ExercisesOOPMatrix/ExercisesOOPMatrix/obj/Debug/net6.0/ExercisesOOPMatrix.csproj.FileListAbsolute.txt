@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\bin\Debug\net6.0\ExercisesOOPMatrix.exe
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\bin\Debug\net6.0\ExercisesOOPMatrix.deps.json
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\bin\Debug\net6.0\ExercisesOOPMatrix.runtimeconfig.json
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\bin\Debug\net6.0\ExercisesOOPMatrix.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\bin\Debug\net6.0\ExercisesOOPMatrix.pdb
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\refint\ExercisesOOPMatrix.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.pdb
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ExercisesOOPMatrix.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOPMatrix\ExercisesOOPMatrix\obj\Debug\net6.0\ref\ExercisesOOPMatrix.dll

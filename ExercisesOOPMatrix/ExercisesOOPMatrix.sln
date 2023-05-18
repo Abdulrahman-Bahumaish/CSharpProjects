@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesOOPMatrix", "ExercisesOOPMatrix\ExercisesOOPMatrix.csproj", "{602CC092-430C-4DEB-A99A-D532467D9C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602CC092-430C-4DEB-A99A-D532467D9C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602CC092-430C-4DEB-A99A-D532467D9C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602CC092-430C-4DEB-A99A-D532467D9C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602CC092-430C-4DEB-A99A-D532467D9C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D3132E2-3EF6-424B-94DC-6701DDD6EBA0}
+	EndGlobalSection
+EndGlobal
