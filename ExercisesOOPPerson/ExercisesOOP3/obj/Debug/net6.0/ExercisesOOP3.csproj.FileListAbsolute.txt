@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\bin\Debug\net6.0\ExercisesOOP3.exe
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\bin\Debug\net6.0\ExercisesOOP3.deps.json
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\bin\Debug\net6.0\ExercisesOOP3.runtimeconfig.json
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\bin\Debug\net6.0\ExercisesOOP3.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\bin\Debug\net6.0\ExercisesOOP3.pdb
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\refint\ExercisesOOP3.dll
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.pdb
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ExercisesOOP3.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lab\ExercisesOOP3\ExercisesOOP3\obj\Debug\net6.0\ref\ExercisesOOP3.dll
